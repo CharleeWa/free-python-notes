@@ -1,2 +1,2 @@
-# free-python-notes
+# 🐍 free-python-notes
 Python Learning Notes
